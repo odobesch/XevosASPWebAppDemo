@@ -1,0 +1,20 @@
+﻿.footerLinks{
+    color:#ffffff;
+    text-decoration: none !important;
+}
+
+.footerLinks:hover{
+    color: orangered;
+}
+
+#footer1{
+    background-color:#762b00;
+}
+
+#footer2 {
+    background-color: #531f00;
+}
+
+#btnUserMemberSignUp {
+    color:white;
+}

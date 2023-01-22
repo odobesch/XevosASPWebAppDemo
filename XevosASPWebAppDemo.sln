@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XevosASPWebAppDemo", "XevosASPWebAppDemo\XevosASPWebAppDemo.csproj", "{D0601708-3AC0-487C-AB30-AC2612CE99A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0601708-3AC0-487C-AB30-AC2612CE99A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0601708-3AC0-487C-AB30-AC2612CE99A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0601708-3AC0-487C-AB30-AC2612CE99A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0601708-3AC0-487C-AB30-AC2612CE99A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73301A83-152B-4586-A91F-57F0E6F9324D}
+	EndGlobalSection
+EndGlobal
